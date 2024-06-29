@@ -2339,6 +2339,19 @@ li a:hover,
 }
 
 /*------------------------------------*\
+    #Works
+\*------------------------------------*/
+
+
+.works .video-section {
+	display: flex;
+	margin: 0 auto;
+	justify-content: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*------------------------------------*\
     #Testimonial
 \*------------------------------------*/
 .testimonial-panel {
